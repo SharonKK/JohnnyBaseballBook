@@ -1,0 +1,29 @@
+.container-fluid .row .col-md-6 a img {column-count:@count;} 
+.container-fluid .row .col-md-6 p {column-count:@count; }
+p {font-family: 'Open + Sans', sans-serif;}
+p {font-size: 2em;}
+.container-fluid {max-width: 80%;}
+.container-fluid .row .col-md-6 a img {padding-left: 5%;}
+.container-fluid .row .col-md-6 p {padding-right: 5%; padding-top: 5%;}
+.container-fluid .row  .col-md-6 h1 {font-size: 2em;  padding-left: 33%;} 
+                            
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
